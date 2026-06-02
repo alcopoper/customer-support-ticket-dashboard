@@ -1,7 +1,7 @@
 # Customer Support & Ticket Analytics Dashboard
 
 ## Dashboard Preview
-![Dashboard](Screenshot 202026-06-02 182111.png)
+![Dashboard](Screenshot 2026-06-02 182111.png)
 
 ## Project Overview
 Developed an interactive Power BI dashboard to analyze customer support operations and monitor key performance metrics.
